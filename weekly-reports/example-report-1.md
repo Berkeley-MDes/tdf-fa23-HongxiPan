@@ -1,10 +1,33 @@
----
-# Example Report 1 - Week of 08/21/2023 #
-Here's an example of creating a weekly progress report, in its own file. 
-This week, I designed a cool phone stand made of rocks. Check out all my cool sketches and progress photos from this week below, etc., etc....
+# Outline
 
-<img width="200" alt="Cool Phone Stand made of rocks" src="https://github.com/s-almeda/tdf-template-repo/assets/21287693/bc2f1864-af5a-456d-9a71-e1d80d51190c">
+[week 1](README.md#week-1)
 
-If you use this format, you might want to link back to the main [README.md](../README.md) like so!
+# Week 1 #
+## Week of 09/05/2024
+
+This week:
+1. Learning how to use github, still learning how to write markdowns (like right now, hopefully I'm doing it right).
+
+2. Got my maker pass, and still working on the laser cutter training.
+
+3. Watched some rhino and grasshopper tutorials.
+
+Fun stuff:
+
+https://adam-6zhapuwfc-adam-f5567005.vercel.app/
+
+This is a AI+CAD tool made by guys from cohort 3, and it's really cool to generate simple models from text, but that's what happens when it deals with complex semantics or relatively organic objects:
+
+It can make a fish:
+
+<img width="600" alt="It thinks this is a fish" src="week1/fish.png">
+
+Also, this is a dog:
+
+<img width="600" alt="Also, this is a dog" src="week1/dog.png">
+
+The most interesting thing is that it can also do design:
+
+<img width="600" alt="Interestingly, it can do design as well" src="week1/design.png">
 
 ---
