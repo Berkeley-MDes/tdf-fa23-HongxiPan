@@ -20,14 +20,14 @@ This is a AI+CAD tool made by guys from cohort 3, and it's really cool to genera
 
 It can make a fish:
 
-<img width="600" alt="It thinks this is a fish" src="weekly-reports/week1/fish.png">
+<img width="600" alt="It thinks this is a fish" src="main/weekly-reports/week1/fish.png">
 
 Also, this is a dog:
 
-<img width="600" alt="Also, this is a dog" src="weekly-reports/week1/dog.png">
+<img width="600" alt="Also, this is a dog" src="main/weekly-reports/week1/dog.png">
 
 The most interesting thing is that it can also do design:
 
-<img width="600" alt="Interestingly, it can do design as well" src="weekly-reports/week1/design.png">
+<img width="600" alt="Interestingly, it can do design as well" src="main/weekly-reports/week1/design.png">
 
 ---
